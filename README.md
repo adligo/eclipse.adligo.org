@@ -3,7 +3,7 @@ This project just contains some eclipse settings
 
 #To Install these settings
 File > Import > General > Preferences
-Import Adligp.epf
+Import Adligo.epf
 
 #My Editor is 
 Dev Style
