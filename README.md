@@ -5,7 +5,7 @@ This project just contains some eclipse settings
 File > Import > General > Preferences
 Import Adligo.epf
 
-#My Editor is 
+# My Editor is 
 Dev Style
 Dark Purple
 Wombat
