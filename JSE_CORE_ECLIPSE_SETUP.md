@@ -19,11 +19,11 @@ gradle eclipse
 
 2.1) From the Eclipse File Menu select Import;
 
-![Importing existing projects into Eclipse Menu#1.](img/ExistingProjectIntoWorkspace#1.png)
+![Importing existing projects into Eclipse Menu#1.](img/ExistingProjectIntoWorkspace_1.png)
 
 2.2) From the dialog open General and select 'Existing Projects into Workspace';
 
-![Importing existing projects into Eclipse Menu#1.](img/ExistingProjectIntoWorkspace#2.png)
+![Importing existing projects into Eclipse Menu#1.](img/ExistingProjectIntoWorkspace_2.png)
 
 2.3) Select the folder where you have jse_core.adligo.org and then select 'Search for nested projects';
 
