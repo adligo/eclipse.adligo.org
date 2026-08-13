@@ -11,7 +11,9 @@ git clone https://github.com/adligo/jse_core.adligo.org.git
 cd jse_core.adligo.org
 npm run git-clone-or-pull
 gradle build --parallel
-# note this is super important because it created the .classpath files used by Eclipse
+
+# note this is super important because it 
+# creates the .classpath files used by Eclipse
 gradle eclipse
 ```
 
