@@ -47,4 +47,4 @@ You should be able to open this file, select the I_DropletsSource class name and
 
 2.7) Get bedazzled by the refactoring menu!
 
-![Refactoring Menu](img/I_Bytes64Stream2I_DropletsSourceSrcLinkF3.png)
+![Refactoring Menu](img/EclipsesJavaRefactoringMenu.png)
